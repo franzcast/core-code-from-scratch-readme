@@ -18,5 +18,11 @@ BitCoin <-- GET FROM (www.xe.com/es/currencyconverter/convert/?Amount=1&From=USD
 Total <-- Cantidad * BitCoin 
 Print Total 
 END
+```
+## Wednesday 
 
+| Fecha nacimiento |  |
+| ----------- | ----------- |
+| Binario | 11111001010 |
+| Base 10    | 1994 |
 .
