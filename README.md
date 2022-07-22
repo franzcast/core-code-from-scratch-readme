@@ -12,3 +12,10 @@ Java se puede considerar tanto un lenguaje compilado como interpretado porque su
 
 - *Pseudocódigo Ejercicio*
 ```javascript
+START
+Cantidad <-- GET
+BitCoin <-- GET FROM (www.xe.com/es/currencyconverter/convert/?Amount=1&From=USD&To=BTC)
+Total <-- Cantidad * BitCoin 
+Print Total 
+END
+
