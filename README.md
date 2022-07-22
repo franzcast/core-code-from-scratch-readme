@@ -21,6 +21,8 @@ END
 ```
 ## Wednesday 
 
+- Your date of birth in the matrix? 
+
 | Fecha nacimiento |  |
 | ----------- | ----------- |
 | Binario | 11111001010 |
