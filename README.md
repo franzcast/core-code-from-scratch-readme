@@ -73,4 +73,4 @@ END
               syscall
 ```
 Resultado
-![alt text](.jpg)
+![Captura de pantalla (1)](https://user-images.githubusercontent.com/109687502/180795599-132b6d51-9529-49b0-a87a-09b1bd144684.png)
