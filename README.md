@@ -19,7 +19,7 @@ Total <-- Cantidad * BitCoin
 Print Total 
 END
 ```
-## Wednesday 
+## Wednesday .
 
 - Your date of birth in the matrix? 
 
